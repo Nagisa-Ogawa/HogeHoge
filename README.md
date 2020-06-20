@@ -9,11 +9,9 @@ _強調_
 
 ---
 
-*リンゴ
-*hogehoge
-*ブドウ
+*リンゴ*hogehoge*ブドウ
 
-'int hoge'
+'int hoge=10'
 
 >引用
 >引用
